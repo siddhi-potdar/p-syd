@@ -10,4 +10,4 @@
 **About me:**
 
 - 📫 How to reach me: siddhi.potdar2013@gmail.com
-- 📝 [Resume](https://resume-siddhi.netlify.app)
+<!-- - 📝 [Resume](https://resume-siddhi.netlify.app) -->
